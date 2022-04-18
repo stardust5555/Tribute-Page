@@ -1,0 +1,67 @@
+<main id="main">
+  <h1 id="title">Tribute to Andremma Garstone</h1>
+  <p>A timeline to honour the relationship of Andrew Garfield and Emma Stone</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://movies-b26f.kxcdn.com/wp-content/uploads/2020/12/andrew-garfield-emma-stone-157048-770x470.jpg"
+      alt="Emma Stone and Andrew Garfield in the Amazing Spiderman"
+    />
+    <figcaption id="img-caption"> <em>
+      Andrew Garfield (as Spiderman, left) and Emma Stone (right). </em>
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's a timeline of their relationship:</h3>
+    <ul>
+      <li><strong>October 2010 - </strong>Emma and Andrew start filming <em> The Amazing Spiderman</em>. </li>
+      <li>
+        <strong>April/May 2011 - </strong> Emma and Andrew split from their respective boyfriend/girlfriend.
+      </li>
+      <li>
+        <strong>November 2011 - </strong> The two are yet to make their relationship status known. Emma hosts <em> Saturday Night Live </em> and Andrew makes a suprise guest appearance (fans are suspicious). 
+      </li>
+      <li>
+        <strong> March 2012 - </strong> Andrew and Emma are spotted kissing in the streets of New York. (Reddit threads absolutely freak out) 
+      </li>
+      <li>
+        <strong>April 2012 - </strong> Emma and Andrew walk the red carpet together at the Nickelodeon Kids' Choice Awards.
+      </li>
+      <li>
+        <strong>June 2012 - </strong> Press tour of <em> The Amazing Spiderman</em>. Emma and Andrew are adorable. Everyone has forgotten about Toby Maguire and Kirsten Dunst.
+      </li>
+      <li>
+        <strong>March 2014 - </strong> <em>The Amazing Spiderman 2 </em> press tour leaves Jamie Foxx as the awkward third wheel.       </li>
+      <li>
+        <strong>April 2015 - </strong> Andremma Garstone officially becomes Andrew Garfield and Emma Stone. 
+      </li>
+      <li>
+        <strong>December 2016 - </strong> In an interview, Andrew Garfield is asked who he would take to a desert island. He says "Emma Stone. I love Emma." Emma Stone says in an interview that she is single. 
+      </li>
+      <li>
+        <strong>January 2017 - </strong> They reuinte at the Golden Globes. Andrew gives Emma a standing ovation when she wins 'Best Actress'.
+      </li>
+      <li>
+        <strong>January 2022 - </strong> Andrew and Emma are still great friends. But not close enough for Emma to know the details of the new Spiderman film. 
+      </li>
+     
+    </ul>
+    <blockquote
+      cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+    >
+      <p>
+        "Emma kept on texting and she was like, ‘Are you in this new ‘Spider-Man’ film?’ And I was like, ‘I don’t know what you’re talking about.'"
+      </p>
+      <cite>-- Andrew Garfield</cite>
+    </blockquote>
+    <h3>
+      If you have too much spare time, don't miss out on watching Andrew and Emma's 
+      <a
+        id="tribute-link"
+        href="https://www.youtube.com/watch?v=f6NUQeb5noM"
+        target="_blank"
+        >appearance on SNL</a
+      >.
+    </h3>
+  </section>
+</main>
